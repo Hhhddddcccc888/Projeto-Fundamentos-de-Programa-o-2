@@ -1,0 +1,81 @@
+nivel,enunciado,alternativa_a,alternativa_b,alternativa_c,alternativa_d,correta
+1,Qual numero completa a sequencia 2 6 12 20 30 ?,36,40,42,44,C
+1,Qual numero completa a sequencia 1 4 9 16 25 ?,30,36,35,49,B
+1,Um tijolo pesa 1 kg mais meio tijolo. Quanto pesa um tijolo inteiro?,1 kg,1.5 kg,2 kg,3 kg,C
+1,Se 5 maquinas fazem 5 pecas em 5 minutos quanto tempo 100 maquinas levam para fazer 100 pecas?,100 minutos,5 minutos,20 minutos,1 minuto,B
+1,Quantos meses do ano tem 28 dias?,1,2,6,12,D
+1,Em uma corrida voce ultrapassa o segundo colocado. Em que posicao voce fica?,Primeiro,Segundo,Terceiro,Depende da corrida,B
+1,Um fazendeiro tem 15 ovelhas e todas menos 8 morrem. Quantas sobram?,7,8,15,0,B
+1,Qual numero completa a sequencia 1 1 2 3 5 8 13 ?,18,20,21,26,C
+1,Se depois de amanha sera sabado que dia foi anteontem?,Segunda-feira,Terca-feira,Quarta-feira,Domingo,B
+1,Quantos numeros de dois algarismos existem?,89,99,90,100,C
+1,Pedro e o 10o da fila contando do inicio e tambem o 10o contando do fim. Quantas pessoas ha na fila?,20,19,21,18,B
+1,Qual numero completa a sequencia 3 9 27 81 ?,162,243,108,324,B
+1,Um produto de 80 reais tem 25% de desconto. Qual o novo preco?,60 reais,55 reais,65 reais,70 reais,A
+1,Quantos apertos de mao acontecem entre 5 pessoas se cada uma cumprimenta todas as outras uma vez?,10,20,25,5,A
+1,Se A e maior que B e B e maior que C qual deles e o menor?,A,B,C,Nao da para saber,C
+1,Um medico te da 3 comprimidos e manda tomar um a cada meia hora. Em quantos minutos voce toma todos?,90,60,30,45,B
+1,Quantas vezes o algarismo 1 aparece escrevendo os numeros de 1 a 20?,11,12,10,13,B
+1,Qual palavra nao combina com as outras: triangulo - quadrado - cubo - pentagono?,Triangulo,Quadrado,Cubo,Pentagono,C
+1,Um trem eletrico vai para o norte e o vento sopra para o sul. Para que lado vai a fumaca do trem?,Norte,Sul,Para cima,Trem eletrico nao solta fumaca,D
+1,Quantos animais de cada especie Moises levou na arca?,1,2,7,Nenhum,D
+2,Qual numero completa a sequencia 2 3 5 7 11 13 ?,15,17,19,16,B
+2,Qual numero completa a sequencia 1 2 6 24 120 ?,240,600,720,500,C
+2,Ha 3 interruptores aqui e 3 lampadas em outra sala. Voce so pode ir la uma vez. O que usar para descobrir qual liga qual?,A cor da luz,O calor das lampadas,O som dos interruptores,O tamanho das lampadas,B
+2,Em uma gaveta ha 10 meias pretas e 10 brancas. No escuro quantas voce precisa tirar para garantir um par da mesma cor?,2,3,11,20,B
+2,Um relogio atrasa 2 minutos por hora. Quanto ele atrasa em um dia inteiro?,48 minutos,24 minutos,36 minutos,60 minutos,A
+2,Quantos quadrados de todos os tamanhos existem em um tabuleiro 3 por 3?,9,10,13,14,D
+2,Um numero multiplicado por ele mesmo e depois somado com ele mesmo da 30. Que numero e esse?,4,5,6,3,B
+2,Se 2 pintores pintam 2 muros em 2 horas quantos pintores sao necessarios para pintar 6 muros em 2 horas?,3,4,6,12,C
+2,Qual e a soma de todos os numeros inteiros de 1 a 100?,5000,5050,5100,10100,B
+2,Ana diz: Bia mente. Bia diz: Carla mente. Carla diz: Ana e Bia mentem. Quem fala a verdade?,Ana,Carla,Bia,Ana e Carla,C
+2,Pai e filho somam 36 anos. O pai tem 30 anos a mais que o filho. Qual a idade do filho?,6,5,4,3,D
+2,Qual e a proxima letra da sequencia U D T Q C S S O ?,N,D,O,T,A
+2,Em um torneio eliminatorio com 64 jogadores quantas partidas sao jogadas ate sair o campeao?,32,63,64,128,B
+2,Quantas vezes o ponteiro dos minutos passa por cima do ponteiro das horas em 12 horas?,12,10,24,11,D
+2,Em um codigo a palavra CASA vira DBTB. Como fica a palavra BOLA nesse codigo?,CPMB,CPNB,DPMB,CQMB,A
+2,Um taco e uma bola custam 11 reais juntos. O taco custa 10 reais a mais que a bola. Quanto custa a bola?,1 real,50 centavos,10 reais,1.50 reais,B
+2,Um caracol sobe 3 m de dia e escorrega 2 m a noite em um poco de 10 m. Em quantos dias ele sai do poco?,10,8,7,9,B
+2,Qual e o proximo termo da sequencia 1 - 11 - 21 - 1211 - ?,111221,312211,1221,2111,A
+2,Quantos algarismos sao usados para numerar as paginas de um livro de 1 a 100?,192,200,189,190,A
+2,Um relogio bate 6 badaladas em 5 segundos. Quanto tempo ele leva para bater 12 badaladas?,10 segundos,11 segundos,12 segundos,10.5 segundos,B
+3,Ha 3 portas e so uma tem premio. Voce escolhe uma e o apresentador abre outra que esta vazia. Se voce trocar de porta qual a chance de ganhar?,1/3,1/2,2/3,1,C
+3,Ha 9 moedas iguais e uma delas e mais pesada. Com uma balanca de dois pratos qual o minimo de pesagens que garante achar a moeda?,1,2,3,4,B
+3,Com quantos zeros termina o numero 25! (fatorial de 25)?,5,4,7,6,D
+3,Uma vela queima por inteiro em 60 minutos. Se ela for acesa nas duas pontas ao mesmo tempo quanto tempo ela dura?,15 minutos,30 minutos,45 minutos,60 minutos,B
+3,Qual numero completa a sequencia 1 2 6 15 31 ?,56,47,50,63,A
+3,Qual numero completa a sequencia 1 3 7 15 31 ?,62,63,64,47,B
+3,Um barqueiro precisa atravessar um lobo e uma cabra e um repolho levando um por vez sem deixar ninguem ser comido. Qual ele leva primeiro?,O lobo,O repolho,A cabra,Tanto faz,C
+3,Se 1=5 e 2=25 e 3=125 e 4=625 entao 5 e igual a quanto?,3125,1,15625,625,B
+3,Quantos numeros de 1 a 1000 sao divisiveis por 3 ou por 5?,467,533,400,466,A
+3,Qual o menor numero que dividido por 2 ou 3 ou 4 ou 5 ou 6 sempre deixa resto 1?,31,61,121,59,B
+3,Quantos numeros de 1 a 100 tem pelo menos um algarismo 7?,19,20,18,10,A
+3,Um numero de dois algarismos tem soma dos algarismos 9. Invertendo os algarismos ele aumenta 27. Que numero e esse?,27,45,36,18,C
+3,Joao tem o dobro da idade de Maria. Daqui a 10 anos ele tera 1.5 vez a idade dela. Qual a idade de Maria hoje?,5,10,15,20,B
+3,Em um grupo de 23 pessoas a chance de duas fazerem aniversario no mesmo dia e de aproximadamente:,6%,23%,50%,90%,C
+3,Uma sala quadrada tem um gato em cada canto. Na frente de cada gato ha 3 gatos. Quantos gatos ha na sala?,4,12,16,13,A
+4,Qual numero completa a sequencia 1 - 11 - 21 - 1211 - 111221 - ?,312211,1112221,311221,212211,A
+4,Qual numero completa a sequencia 2 12 30 56 90 ?,120,132,126,110,B
+4,Com quantos zeros termina o numero 100! (fatorial de 100)?,20,22,25,24,D
+4,Quantos retangulos (contando os quadrados) existem em um tabuleiro 3 por 3?,36,14,18,30,A
+4,Tres caixas tem os rotulos MACAS e LARANJAS e MISTURA mas todos os rotulos estao errados. Tirando uma fruta de qual caixa voce descobre tudo?,MACAS,LARANJAS,MISTURA,Impossivel com uma fruta so,C
+4,Entre 12 moedas uma tem peso diferente (nao se sabe se e mais leve ou mais pesada). Qual o minimo de pesagens em uma balanca de pratos para achar a moeda?,2,3,4,5,B
+4,Um cacador anda 1 km ao sul e depois 1 km a leste e depois 1 km ao norte e volta ao ponto de partida. La ele ve um urso. De que cor e o urso?,Marrom,Preto,Branco,Pardo,C
+4,Quantos numeros de 3 algarismos diferentes podem ser formados usando os algarismos 1 2 3 4 e 5?,125,60,120,20,B
+4,De quantas formas diferentes 5 pessoas podem sentar em volta de uma mesa redonda?,120,60,24,25,C
+4,Se 3 gatos pegam 3 ratos em 3 minutos quantos gatos sao necessarios para pegar 100 ratos em 100 minutos?,100,33,1,3,D
+4,Um numero dividido por 7 deixa resto 5. Qual o resto da divisao do dobro desse numero por 7?,3,5,10,2,A
+4,Qual e o ultimo algarismo de 2 elevado a 100?,2,4,6,8,C
+4,Em uma ilha cavaleiros sempre falam a verdade e patifes sempre mentem. A diz: Eu sou patife ou B e cavaleiro. O que sao A e B?,Os dois sao cavaleiros,Os dois sao patifes,A cavaleiro e B patife,A patife e B cavaleiro,A
+4,Quantos quadrados de todos os tamanhos existem em um tabuleiro de xadrez 8 por 8?,64,204,196,256,B
+4,Um carro vai a 60 km/h e volta pelo mesmo caminho a 40 km/h. Qual a velocidade media da viagem inteira?,50 km/h,45 km/h,52 km/h,48 km/h,D
+5,Jogando dois dados qual a probabilidade de sair pelo menos um 6?,1/6,1/3,11/36,1/36,C
+5,Uma familia tem 2 filhos e pelo menos um deles e menino. Qual a probabilidade de os dois serem meninos?,1/2,1/3,1/4,2/3,B
+5,Quantos numeros de 1 a 1000 nao sao divisiveis nem por 2 nem por 3 nem por 5?,266,267,734,333,A
+5,Qual o resto da divisao de 3 elevado a 100 por 7?,1,2,4,3,C
+5,Quantas diagonais tem um poligono de 12 lados?,66,48,60,54,D
+5,Ha 100 lampadas apagadas. Na rodada k (de 1 a 100) voce troca o estado de todas as lampadas numeradas com multiplos de k. Quantas ficam acesas?,50,10,25,0,B
+5,Andando so para a direita ou para cima quantos caminhos diferentes levam de um canto ao canto oposto de uma grade de 4 por 4 quadradinhos?,16,35,70,256,C
+5,Com quantos zeros termina o numero 1000! (fatorial de 1000)?,200,249,250,248,B
+5,Qual numero completa a sequencia 1 2 4 7 11 16 22 ?,28,30,27,29,D
+5,Quantos anagramas diferentes tem a palavra BANANA?,720,120,60,36,C
